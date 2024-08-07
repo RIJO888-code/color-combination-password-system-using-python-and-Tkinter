@@ -93,7 +93,7 @@ class ColorPasswordApp:
         messagebox.showinfo("Info", "Reset successfully.")
 
 
-# Create the main window
+
 root = tk.Tk()
 app = ColorPasswordApp(root)
 root.mainloop()
